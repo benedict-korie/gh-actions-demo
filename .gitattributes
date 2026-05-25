@@ -1,0 +1,6 @@
+*.js linguist-vendored=true
+*.json linguist-vendored=true
+*.tf linguist-detectable=true
+*.hcl linguist-detectable=true
+*.yaml linguist-detectable=true
+*.yml linguist-detectable=true
