@@ -1,5 +1,4 @@
-*.js linguist-vendored=true
-*.json linguist-vendored=true
+package-lock.json linguist-generated=true
 *.tf linguist-detectable=true
 *.hcl linguist-detectable=true
 *.yaml linguist-detectable=true
